@@ -1,0 +1,28 @@
+{
+  "name": "server_side_rendering",
+  "version": "1.0.0",
+  "description": "Task-based SSR project using Node.js and Express for Cognifyz internship",
+  "keywords": [],
+  "homepage": "https://github.com/Soham553/-Full-stack-Development-Intern-tasks-at-Cognifyz-Technologies#readme",
+  "bugs": {
+    "url": "https://github.com/Soham553/-Full-stack-Development-Intern-tasks-at-Cognifyz-Technologies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soham553/-Full-stack-Development-Intern-tasks-at-Cognifyz-Technologies.git"
+  },
+  "license": "ISC",
+  "author": "g\",",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No test specified\\\"\"",
+    "dev" : "nodemon"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
